@@ -13,11 +13,8 @@ section{
     display: flex;
 
 }
-h5{
-    font-size: 40%;
-    text-align: center;
-    padding-left: 50%;
-}
+
+
 .link-button{
     text-decoration: none;
     padding: 20px 30px;
